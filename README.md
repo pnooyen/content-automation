@@ -8,6 +8,7 @@
 * [PySceneDetect](https://github.com/Breakthrough/PySceneDetect) 🎥 Python and OpenCV-based scene cut/transition detection program & library
 * [moviepy](https://github.com/topics/video-processing) Video editing with Python
 * [auto-editor](https://github.com/WyattBlue/auto-editor) Auto-Editor: Effort free video editing!
+* [Pillow](https://github.com/python-pillow/Pillow) Python Imaging Library (Fork)
 
 ## Quality Improve
 * [QualityScaler](https://github.com/Djdefrag/QualityScaler) QualityScaler - image/video AI upscaler app
